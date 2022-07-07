@@ -1,0 +1,10 @@
+.menu_bar {
+    position:sticky; 
+    top:0; 
+    z-index:9999;
+    font-family: fantasy;
+}
+body {
+    text-align: center;
+    background: linear-gradient(aquamarine 0%, antiquewhite 30%, violet 50%, cornflowerblue 80%, lavender 100% );
+}
